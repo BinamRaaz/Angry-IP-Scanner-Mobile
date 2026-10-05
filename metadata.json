@@ -1,0 +1,6 @@
+{
+  "name": "Angry IP Scanner Mobile",
+  "description": "Native Android network scanner based on the open-source Angry IP Scanner.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,22 @@
+Angry IP Scanner Mobile
+Copyright (C) 2026 Angry IP Scanner Mobile Contributors
+
+This project is an independent native Android fork derived from the open-source
+Angry IP Scanner project originally created by Anton Keks (angryziber).
+
+Upstream Project:
+  Name: Angry IP Scanner (ipscan)
+  Author: Anton Keks and contributors
+  Website: https://angryip.org
+  Repository: https://github.com/angryip/ipscan
+  License: GNU General Public License v2.0 (GPL-2.0)
+
+DISCLAIMER & ATTRIBUTION:
+This mobile application is an independent fork and derivative work, re-architected
+specifically for the Android operating system using Kotlin and Jetpack Compose.
+It is not an official release of, nor is it endorsed or certified by, Anton Keks
+or the upstream Angry IP Scanner team.
+
+All modifications, Android adaptations, and mobile-specific architectural
+components are licensed under the GNU General Public License v2.0 in accordance
+with the original project license.
